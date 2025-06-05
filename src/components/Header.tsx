@@ -34,7 +34,7 @@ const Header: React.FC = () => {
           
           <div className="flex items-center gap-4">
             <a 
-              href="" 
+              href="https://pump.fun/coin/67jtxHSBzZjmW2QzfYr8RDcSSZexM4ycbmnvkuxtpump" 
               className="hidden md:flex items-center gap-1 bg-green-500 hover:bg-green-600 text-black px-4 py-1.5 rounded-full text-sm font-medium transition-colors"
               target="_blank"
               rel="noopener noreferrer"

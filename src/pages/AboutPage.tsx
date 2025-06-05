@@ -27,11 +27,11 @@ const AboutPage: React.FC = () => {
           <div className="mt-6 bg-zinc-900/50 rounded-lg p-4">
             <h3 className="font-medium mb-2 text-yellow-400">Contract Details</h3>
             <div className="font-mono text-sm break-all bg-black/30 p-3 rounded">
-              [deploying..]
+              [67jtxHSBzZjmW2QzfYr8RDcSSZexM4ycbmnvkuxtpump]
             </div>
             <div className="mt-4 flex justify-center">
               <a 
-                href="#"
+                href="https://pump.fun/coin/67jtxHSBzZjmW2QzfYr8RDcSSZexM4ycbmnvkuxtpump"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-1 bg-green-500 hover:bg-green-600 text-black px-6 py-2 rounded-lg font-medium transition-colors"
