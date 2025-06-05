@@ -94,7 +94,8 @@ const AboutPage: React.FC = () => {
               Share SuperBitcoin
             </button>
             <a 
-              href="#"
+                             href="https://pump.fun/coin/67jtxHSBzZjmW2QzfYr8RDcSSZexM4ycbmnvkuxtpump"
+
               target="_blank"
               rel="noopener noreferrer"
               className="bg-green-500 hover:bg-green-600 text-black px-6 py-3 rounded-lg font-medium transition-colors inline-flex items-center gap-1"
